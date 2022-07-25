@@ -19,7 +19,7 @@ pkg install git
 
 git clone https://github.com/ariyankhan5630/ARIYAN-
 
-cd Free-Scrip.py
+cd ARIYAN
 
 python Free-Scrip.py
 
